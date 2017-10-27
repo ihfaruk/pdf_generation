@@ -1,0 +1,6 @@
+com\sap\consumer\PatientService.class
+com\sap\consumer\DocumentService.class
+com\sap\consumer\DocumentService2.class
+com\sap\consumer\ConsumerResource.class
+com\sap\consumer\DemoApplication.class
+com\sap\consumer\ITextPDFService.class
